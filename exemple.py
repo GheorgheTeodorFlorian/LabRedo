@@ -1,3 +1,6 @@
 print("Hello")
+<<<<<<< HEAD
 print("HELLO") 
-text text
+print("HELLO")
+print("AYOOOOO")
+
